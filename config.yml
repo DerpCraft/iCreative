@@ -1,7 +1,5 @@
 # --------------------------------
-# Limited Creative - Configuration
-# Full Default Configuration at:
-# https://github.com/possi/LimitedCreative/blob/master/config.yml
+# iCreative - Configuration
 #
 # (YAML-Syntax: http://en.wikipedia.org/wiki/YAML)
 # --------------------------------
@@ -36,8 +34,8 @@ store:
         feet: CHAINMAIL_BOOTS
     
     # InventoryFolder
-    # The folder inside the datadir-folder (plugin/LimitedCreative) where the inventories are saved to.
-    # By default the inventories are saved to "plugin/LimitedCreative/inventories".
+    # The folder inside the datadir-folder (plugin/iCreative) where the inventories are saved to.
+    # By default the inventories are saved to "plugin/iCreative/inventories".
     # default: "inventories"
     folder: "inventories"
     
