@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>de.jaschastarke</groupId>
-  <artifactId>LimitedCreative</artifactId>
+  <artifactId>iCreative</artifactId>
   <name>LimitedCreative</name>
   <version>1.4.7a</version>
   <url>https://github.com/possi/LimitedCreative</url>
@@ -103,22 +103,10 @@
   		<version>5.7</version>
   	</dependency>
   	<dependency>
-  	    <!-- http://dev.bukkit.org/server-mods/authme-reloaded/ -->
-  		<groupId>uk.org.whoami</groupId>
-  		<artifactId>authme</artifactId>
-  		<version>2.7.2</version>
-  	</dependency>
-  	<dependency>
   	    <!-- http://dev.bukkit.org/server-mods/multiverse-core/ -->
   		<groupId>com.onarandombox.multiversecore</groupId>
   		<artifactId>Multiverse-Core</artifactId>
   		<version>2.4</version>
-  	</dependency>
-  	<dependency>
-  	    <!-- http://dev.bukkit.org/server-mods/xauth/ -->
-  		<groupId>com.cypherx</groupId>
-  		<artifactId>xauth</artifactId>
-  		<version>2.0.26</version>
   	</dependency>
   </dependencies>
   <properties>
