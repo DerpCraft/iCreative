@@ -1,14 +1,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>de.jaschastarke</groupId>
-  <artifactId>LimitedCreative</artifactId>
-  <name>LimitedCreative</name>
-  <version>1.4.7a</version>
-  <url>https://github.com/possi/LimitedCreative</url>
+  <groupId>me.itidez.plugins</groupId>
+  <artifactId>iCreative</artifactId>
+  <name>iCreative</name>
+  <version>1.0B1</version>
+  <url>https://github.com/DerpCraft/iCreative</url>
   <scm>
-  	<connection>scm:git:git://github.com/possi/LimitedCreative.git</connection>
-  	<developerConnection>scm:git:git@github.com:possi/LimitedCreative.git</developerConnection>
-  	<url>https://github.com/possi/LimitedCreative/tree/master</url>
+  	<connection>scm:git:git://github.com/DerpCraft/iCreative.git</connection>
+  	<developerConnection>scm:git:git@github.com:DerpCraft/iCreative.git</developerConnection>
+  	<url>https://github.com/DerpCRaft/iCreative/tree/master</url>
   </scm>
   <repositories>
     <!-- Possible public Maven Repository, containing LimitedCreative builds and other dependencies without own rep.
