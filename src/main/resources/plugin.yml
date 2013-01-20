@@ -1,0 +1,8 @@
+author: iTidez
+database: false
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: me.itidez.plugins.icreative.Icreative
+name: iCreative
+startup: postworld
+url: http://derpcraft.co/
+version: '1.0'
