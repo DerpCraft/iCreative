@@ -20,7 +20,7 @@ package de.jaschastarke.minecraft.integration;
 //import java.util.HashMap;
 //import java.util.Map;
 
-import static de.jaschastarke.minecraft.utils.Util.compareVersion;
+import static me.itidez.plugins.utils.Util.compareVersion;
 
 //import org.bukkit.event.EventHandler;
 //import org.bukkit.event.Listener;

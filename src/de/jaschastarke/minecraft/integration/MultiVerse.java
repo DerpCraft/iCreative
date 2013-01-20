@@ -24,7 +24,7 @@ import org.bukkit.World;
 import com.onarandombox.MultiverseCore.MultiverseCore;
 import com.onarandombox.MultiverseCore.api.MultiverseWorld;
 
-import de.jaschastarke.minecraft.limitedcreative.Core;
+import me.itidez.plugins.icreative.Core;
 
 public class MultiVerse implements CommunicationBridge {
     public static GameMode getGameMode(World world) {
