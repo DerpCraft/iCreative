@@ -16,7 +16,7 @@ Below is a list of what iCreative moniters and controls:
  * Player Interaction
  * Flight
 
-[BugTracker]("http://diamondgaming.co/bugzilla/index.cgi")
+[BugTracker](http://diamondgaming.co/bugzilla/index.cgi)
 
 Features In-Development
 -----------------------
